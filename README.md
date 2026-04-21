@@ -6,6 +6,7 @@
 A delightful, easy-to-use API and visual reference guide that maps every standard HTTP status code to a corresponding image of a dog. Because debugging network errors should make you smile.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,4 +24,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
